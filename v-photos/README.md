@@ -1,4 +1,3 @@
 Vehicle's photos
 ====
-
-This directory must contain 6 photos of the vehicle (from every side, from top and bottom)
+https://drive.google.com/drive/folders/1O6aFmaFSEzkd3D9cy3CbBRaz1EMzRMKu?usp=drive_link
