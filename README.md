@@ -15,12 +15,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
-
-## How to prepare the repo based on the template
-
-_Remove this section before the first commit to the repository_
-
-1. Clone this repo by using the `git clone` functionality.
-2. Remove `.git` directory
-3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
+Constructing, Gathering, and Submitting the Code
+oBuilding the Code: To develop our modules, we utilize the LEGO Mindstorms programming software, which lets us drag and drop building components. We can test and iterate faster thanks to this visual programming environment.
+oCompiling the Code: To make sure there are no mistakes, we compile our code inside the software after it is finished. This stage verifies that every module functions as planned.
+oUploading the Code: Lastly, we use Bluetooth or USB to link the car's controller to our PC. We directly upload the compiled code to the controller, enabling it to function during the WRO competition. We're excited to show off the effort we've put into our robot and are proud of its accomplishments! I'm grateful for your support, and let’s make this competition a memorable experience!
